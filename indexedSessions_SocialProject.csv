@@ -1,2 +1,3 @@
 SessionName,Subject,Path,Strain,GeneticLine,Behavior,numCells,brainRegions,Project
 fl4_080322_sess1,fl4,fl4\fl4_080322_sess1,c57b1/6,wild type,open field,38,CA2so CA3slm,SocialProject
+fl4_090322_sess2,fl4,fl4\fl4_090322_sess2,c57b1/6,wild type,open field open field,25,CA2so CA3slm,SocialProject
